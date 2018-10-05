@@ -1,5 +1,5 @@
 
-# netkit-dhcp-nat
+# Configuration
 
 ##### Using Netkit for setting up and performing networking experiments.
 
